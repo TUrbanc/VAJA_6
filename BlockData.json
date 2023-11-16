@@ -1,0 +1,8 @@
+{
+    "jsonrpc": "2.0",
+    "id": 0,
+    "error": {
+        "code": -32601,
+        "message": "The method eth_BlockByNumber does not exist/is not available"
+    }
+}
